@@ -1,0 +1,197 @@
+/* CSS declarations go here */
+.app {
+
+}
+.bottom_description{
+	padding-top: 168px;   
+}
+
+.pdisplay_inline{
+	display: inline-block;
+}
+.bottom_update{
+	padding-top: 158px;   
+}
+.bottom_update_exp{
+	padding-top: 243px;   
+}
+
+.body_padtop{
+	padding-top: 75px;   
+}
+
+.bg_gradient_orange{
+	background: #BA8B02;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #181818, #BA8B02);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #181818, #BA8B02); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	height: 100dv;
+}
+.site_title {
+	font-size: 20px;
+	text-align: right;
+	font-family: Hiragino Sans;
+	padding: 0.5em;
+	color: cornflowerblue;
+
+}
+.align_right{
+	justify-content: right;
+}
+
+.title {
+	text-align: center;
+	font-size: 50px;
+	font-family: Hiragino Sans;
+	padding-top: 1em;
+	text-decoration: none;
+}
+.subtitle {
+	text-align: center;
+	font-size: 35px;
+	font-family: fantasy;
+}
+.home_grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding-top: 9em;
+	padding-left: 2em;
+	padding-right: 3em;
+	grid-gap: 3em; 	
+}
+
+.category_grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	padding-top: 2em;
+	padding-left: 2em;
+	padding-right: 2em;
+	grid-gap: 2em; 	
+}
+
+.navigation_grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 2em;
+	background-color: cornflowerblue;
+  	color: white;
+  	height: 50px;
+  	width:100%;
+  	font-size: 19px;
+  	position: fixed;
+
+}
+.butt_grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.two_block_grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 3em;
+	background-color: none;
+  	grid-gap: 4em; 	
+}
+.eventlist_grid {
+	display: grid;
+	grid-template-columns: 1fr 5fr 1fr;
+}
+.padding_sides {
+	padding-right: 2em;
+	padding-left: 2em;
+}
+.padding_topdown {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+.padding_top {
+	padding-top: 1.5em;
+}
+.padding_top_max {
+	padding-top: 4em;
+}
+.padding_down {
+	padding-bottom: 2em;
+}
+
+.text_in_grey{
+	color: grey;
+}
+.padding_allways {
+	padding-left: 1em;
+	padding-right: 1em;
+}
+.save_button {
+    padding: 30px;
+    width: 187px;
+    border-radius: 3px;
+    background: cornflowerblue;
+    color:white;
+}
+.discard_button {
+    padding: 30px;
+    width: 188px;
+    border-radius: 3px;
+    text-align: center;
+}
+.edit_button {
+	height: 35px;
+    width: 45px;
+    border:none;
+    background: cornflowerblue;
+    border-radius: 3px;
+    text-align: center;
+    color:white;
+}
+.delete_button {
+	height: 40px;
+    width: 65px;
+    background: #feba02;
+    border:none;
+    border-radius: 3px;
+    text-align: center;
+    color:white;
+}
+
+.input_field {
+
+    padding: 8px;
+    border: none;
+    width:100%;
+    border-radius: 3px;
+}
+.longtext_input_field {
+    padding-bottom: 100px;
+    justify-content: left;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+}
+.label {
+	font-size: 18px;
+	color: cornflowerblue;
+}
+.white_text{
+    color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
